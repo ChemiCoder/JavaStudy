@@ -10,7 +10,7 @@
     * [Array](array.md)
 * [Object and Class](object-and-class.md)
     * [Constructor](constructor.md)
-* [Static fields and static methods](static-fields-and-static-methods.md)
-* [method and parameter](method-and-parameter.md)
-* [Object constructor](object-constructor.md)
+    * [method and parameter](method-and-parameter.md)
+    * [Static fields and static methods](static-fields-and-static-methods.md)
+    * [Object constructor](object-constructor.md)
 
