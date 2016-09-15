@@ -33,3 +33,17 @@ java.util.Date 是 java.sql.Date 的父类（注意拼写）,前者是常用的�
 ```
 System.out.printf("%1$s %2$tB %2$te,%2$tY");
 ```
+##控制流程
+当在switch语句中使用没去常量时，不必再每个标签中指明枚举类，可以由switch的表达式确定
+```
+Size=a=...;
+switch(a){
+case Small: // no need to use Size.SMALL
+    ...
+    break;
+}
+```
+###中断流程控制
+**不带标签的break**，可以退出当前循环
+**带标签的break**，标签必须放在希望跳出的最外层循环之前，并且必须紧跟一个冒号。
+continue语句，中断正常的控制流程。将控制转移到最内层循环的首部。

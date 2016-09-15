@@ -6,4 +6,8 @@
     * [Code point  and Code Unit](code-point.md)
     * [String](string.md)
     * [IO](io.md)
+    * [BigInteger and BigDecimal](biginteger-and-bigdecimal.md)
+    * [Array](array.md)
+* [Object and Class](object-and-class.md)
+    * [Constructor](constructor.md)
 
