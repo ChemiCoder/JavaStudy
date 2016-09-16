@@ -13,4 +13,5 @@
     * [method and parameter](method-and-parameter.md)
     * [Static fields and static methods](static-fields-and-static-methods.md)
     * [Object constructor](object-constructor.md)
+* [Extend](extend.md)
 
