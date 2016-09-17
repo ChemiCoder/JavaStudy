@@ -14,10 +14,11 @@
     * [Static fields and static methods](static-fields-and-static-methods.md)
     * [Object constructor](object-constructor.md)
 * [Extend](extend.md)
+    * [对象包装器与自动装箱](对象包装器与自动装箱.md)
     * [ArrayList](arraylist.md)
     * [Object](object.md)
         * [equals](equals.md)
         * [hashCode](hash.md)
         * [toString](tostring.md)
-* [对象包装器与自动装箱](对象包装器与自动装箱.md)
+    * [参数可变的方法](参数可变的方法.md)
 
