@@ -1,3 +1,3 @@
-# My Awesome Book
+# Java Study
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+学习《Java核心技术》的笔记，和对一些难点的拓展和注疏。
