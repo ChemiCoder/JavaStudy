@@ -14,4 +14,9 @@
     * [Static fields and static methods](static-fields-and-static-methods.md)
     * [Object constructor](object-constructor.md)
 * [Extend](extend.md)
+    * [Array'List](arraylist.md)
+    * [Object](object.md)
+        * [equals](equals.md)
+        * [hashCode](hash.md)
+        * toString
 
