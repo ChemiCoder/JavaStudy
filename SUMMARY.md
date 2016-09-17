@@ -21,4 +21,5 @@
         * [hashCode](hash.md)
         * [toString](tostring.md)
     * [参数可变的方法](参数可变的方法.md)
+    * [枚举类](枚举类.md)
 
