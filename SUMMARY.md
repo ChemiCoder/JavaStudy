@@ -18,5 +18,5 @@
     * [Object](object.md)
         * [equals](equals.md)
         * [hashCode](hash.md)
-        * toString
+        * [toString](tostring.md)
 
